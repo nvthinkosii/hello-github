@@ -1,6 +1,8 @@
 print("Simple Calculator")
 
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
 
-print("Sum:", num1 + num2)
+print("Sum:", a + b)
+
+input("Press Enter to exit...")
