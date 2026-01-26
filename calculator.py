@@ -1,8 +1,33 @@
 print("Simple Calculator")
 
-a = float(input("Enter first number: "))
-b = float(input("Enter second number: "))
+while True:
+   print("\nChoose an operation:")
+   print("1. Add")
+   print("2. Subtract")
+   print("3. Multiply")
+   print("4. Divide")
+   print("5. Exit")
 
-print("Sum:", a + b)
+   choice = input("Enter choice (1-5): ")
+   if choice == "5":
+       print("Goodbye!")
+       break
 
-input("Press Enter to exit...")
+   a = float(input("Enter first number: "))
+   b = float(input("Enter second number: "))
+
+   if choice == "1":
+       print("Result:", a + b)
+   elif choice == "2":
+       print("Result:", a - b)
+   elif choice == "3":
+       print("Result:", a * b)
+   elif choice == "4":
+       if b != 0:
+           print("Result:", a / b)
+       else:
+           print("Error: Cannot divide by zero")
+   else:
+       print("Invalid choice")
+
+input("\nPress Enter to exit...")
