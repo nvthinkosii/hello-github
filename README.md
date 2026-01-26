@@ -1,3 +1,12 @@
 # Hello GitHub 👋
+
 This is my first GitHub repository.
-I’m a Software Development student at Eduvos (NQF 5), learning Git, GitHub, and programming fundamentals.
+
+I created this project to learn Git and GitHub fundamentals:
+- Cloning repositories
+- Creating commits
+- Pushing changes to GitHub
+  
+Author: Lindokuhle Nkosi  
+Programme: Software Development (NQF 5) – Eduvos
+ 
