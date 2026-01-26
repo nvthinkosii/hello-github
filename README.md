@@ -1,12 +1,11 @@
 # Hello GitHub 👋
 
-This is my first GitHub repository.
+This repository contains my Python projects as I learn software development.
 
-I created this project to learn Git and GitHub fundamentals:
-- Cloning repositories
-- Creating commits
-- Pushing changes to GitHub
-  
-Author: Lindokuhle Nkosi  
-Programme: Software Development (NQF 5) – Eduvos
+## Projects
+- **hello.py** - Simple Hello World script
+- **calculator.py** - Interactive calculator that supports addition, subtraction, multiplication, and division
+
+## About Me
+Software Development student at Eduvos (NQF 5), building a strong foundation in programming, databases, and problem-solving, with a background in architectural technology and project coordination.
  
